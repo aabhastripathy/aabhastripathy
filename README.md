@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Aabhas+Tripathi;Data+Analyst+%26+.NET+Developer;BTech+(Final+Semester)" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Aabhas+Tripathi;Data+Analyst+%26+.NET+Developer;BTech+(Graduate)" />
 </h1>
 
 ---
