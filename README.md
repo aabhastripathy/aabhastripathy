@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 BTech (Final Semester) — specializing in **Data Analytics & Software Development**  
+- 🎓 BTech (Graduate) — specializing in **Data Analytics & Software Development**  
 - ✅ Completed: **C++**, **C#**, **SQL**, **MERN**, **.NET**, **Java**  
 - 🌱 Currently learning: **Power BI (PL-300)**, **Advanced SQL**, **Oracle**  
 - 🎯 Career Focus: Aspiring **Data Analyst** / **.NET Developer**  
