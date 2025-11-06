@@ -45,9 +45,9 @@
 
 ## 📊 Projects & Highlights  
 - 🧠 Built a **Full-Stack Analytics Dashboard** using Next.js, React, TypeScript, Tailwind, Redux, and multiple APIs (Weather, News, Finance, GitHub).  
-- 💻 Developed **C# & .NET** applications integrating with **SQL databases** for efficient backend workflows.  
-- 🎨 Designed user-focused **UI/UX prototypes** during an internship at *Trustique*.  
-- 📈 Working on **Power BI Reports** and **PL-300 Certification Prep** to strengthen analytics expertise.  
+- 💻 Developed **C# & .NET** applications integrated with **SQL** for backend efficiency.  
+- 🎨 Designed **UI/UX prototypes** during internship at *Trustique*.  
+- 📈 Working on **Power BI Reports** and **PL-300 Certification Prep** to deepen analytics skills.  
 
 ---
 
@@ -55,6 +55,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabhastripathy&layout=compact&theme=react&hide_border=false" />
+</p>
+
+---
+
+## 💻 My Top Languages  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
