@@ -95,3 +95,5 @@
 ---
 
 ⭐ From [Aabhas Tripathi](https://github.com/aabhastripathy)
+⭐ Email [Aabhas Tripathi](aabhastripathi2002@gmail.com)
+⭐ Linkedin [Aabhas Tripathi](https://www.linkedin.com/in/aabhastiphati02/)
