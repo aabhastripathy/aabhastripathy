@@ -94,6 +94,5 @@
 
 ---
 
-⭐ From [Aabhas Tripathi](https://github.com/aabhastripathy)
-⭐ Email [Aabhas Tripathi](aabhastripathi2002@gmail.com)
+⭐ From [Aabhas Tripathi](https://github.com/aabhastripathy)<br>
 ⭐ Linkedin [Aabhas Tripathi](https://www.linkedin.com/in/aabhastiphati02/)
