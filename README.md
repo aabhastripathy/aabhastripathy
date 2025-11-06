@@ -69,6 +69,9 @@
 </p>
 
 ---
+ 
+
+
 
 ## ⚽ Hobbies  
 
@@ -76,7 +79,7 @@
   ⚽ Playing Football &nbsp;&nbsp; 🏊 Swimming &nbsp;&nbsp; 🎮 Gaming
 </p>
 
----
+
 
 ## 🤝 Connect with Me  
 
@@ -91,7 +94,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <br/>
-  <img src="https://profile-counter.glitch.me/aabhastripathy/count.svg" alt="GitHub Profile Views" style="margin-top: 15px;"/>
+  <img src="https://komarev.com/ghpvc/?username=aabhastripathy&label=Profile%20Views&color=blue&style=flat-square" alt="GitHub Profile Views" style="margin-top: 15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
 ---
