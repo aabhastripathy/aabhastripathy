@@ -6,10 +6,11 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 BTech (final semester) — transitioning into Data Analytics / BI  
-- ✅ Completed: **C++**, **SQL**, **MERN**, **.NET** (hands-on projects + internships)  
-- 🌱 Currently learning: **Power BI (PL-300 prep)**, **Advanced SQL**, **Aptitude & Oracle**  
-- 🎯 Career focus: Aspiring **Data Analyst** / BI Developer
+- 🎓 BTech (Final Semester) — specializing in **Data Analytics & BI**  
+- ✅ Completed: **C++**, **SQL**, **MERN**, **.NET**, **Java**  
+- 🌱 Currently learning: **Power BI (PL-300)**, **Advanced SQL**, **Oracle**  
+- 🎯 Career Focus: Aspiring **Data Analyst** / **BI Developer**  
+- 💡 Passionate about building **data-driven dashboards** and **intuitive UI/UX designs**
 
 ---
 
@@ -18,7 +19,7 @@
 <p align="center">
   <a href="#" title="Python"><img src="https://skillicons.dev/icons?i=python" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="#" title="SQL"><img src="https://skillicons.dev/icons?i=mysql" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-  <a href="#" title="Power BI"><img src="https://skillicons.dev/icons?i=powerbi" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#" title="Power BI"><img src="https://img.icons8.com/color/96/power-bi.png" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="#" title="Java"><img src="https://skillicons.dev/icons?i=java" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
@@ -28,28 +29,25 @@
 
 ---
 
-## 📊 Projects & Highlights
-- Built a **full-stack analytics dashboard** (Next.js, React, TypeScript, Tailwind, multiple API integrations — weather, news, finance, GitHub).  
-- UI/UX internship experience — designed user-centered interfaces and interactive prototypes.  
-- Worked on data analysis assignments and PL-300 / Power BI labs.
+## 📊 Projects & Highlights  
+- 🧠 Built a **Full-Stack Analytics Dashboard** using Next.js, React, TypeScript, Tailwind, Redux, and multiple APIs (Weather, News, Finance, GitHub).  
+- 🎨 Designed user-focused **UI/UX prototypes** during an internship at *Trustique*.  
+- 📈 Working on **Power BI Reports** and **PL-300 Certification Prep** to strengthen analytics expertise.  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<!-- Replace `your-github-username` with your real GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabhastripathy&layout=compact&theme=react&hide_border=false" />
 </p>
-
-> ⚠️ Tip: replace `your-github-username` in the image URL above with your GitHub username to show real stats.
 
 ---
 
 ## ⚽ Hobbies  
 
 <p align="center">
-  🏋 Working out &nbsp;&nbsp; 🏃 Running &nbsp;&nbsp; ⚽ Playing sports &nbsp;&nbsp; 🎮 Gaming
+  ⚽ Playing Football &nbsp;&nbsp; 🏊 Swimming &nbsp;&nbsp; 🎮 Gaming
 </p>
 
 ---
@@ -63,9 +61,11 @@
   <a href="mailto:aabhstripathi2002@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <!-- Optional: Add your HackerRank / LeetCode / GitHub links here -->
+  <a href="https://github.com/aabhastripathy" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 </p>
 
 ---
 
-⭐ From [Aabhas Tripathi](https://www.linkedin.com/in/aabhastiphati02/)
+⭐ From [Aabhas Tripathi](https://github.com/aabhastripathy)
