@@ -1,9 +1,23 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Aabhas+Tripathi;Data+Analyst+%26+.NET+Developer;BTech+(Graduate)" />
-    <a href="https://github.com/aabhastripathy">
-        <img src="https://user-images.githubusercontent.com/74038190/211985442-f547c3e8-c2b6-4556-912f-917397b97a22.gif" height="30px" width="30px" style="margin-left: 10px;" />
-    </a>
-</h1>
+<!-- 🌈 Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aabhas%20Tripathi%20🚀&fontAlignY=38&fontSize=46&fontColor=ffffff&desc=Data%20Analyst%20%7C%20.NET%20Developer&descAlignY=58&descAlign=50&animation=fadeIn&color=gradient&customColorList=0,3,31,43,61,90" />
+</p>
+
+<!-- ✍️ Working Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aabhas+Tripathi;Data+Analyst+%26+.NET+Developer;Turning+Data+into+Actionable+Insights+📊;Passionate+About+Data+%26+Design+💡" alt="Typing SVG" />
+</p>
+
+<!-- 🌌 Gradient Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
+
+<!-- 🌊 Footer Wave for a Smooth End -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,3,31,43,61,90" />
+</p>
+
 
 ---
 
